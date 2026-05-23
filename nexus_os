@@ -1,0 +1,3 @@
+nexus_os/
+├── app.py          <-- Ton fichier principal (Le cœur et le menu de l'application)
+└── outils.py       <-- Le fichier qui contient le code de toutes tes mini-apps
